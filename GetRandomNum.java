@@ -13,7 +13,7 @@ public class GetRandomNum {
 		getStringId();
 	}
 	/*
-	 *注释一个方法
+	 *给一个方法添加注释
 	 */
 	private static void getStringId() {
 		// TODO Auto-generated method stub
