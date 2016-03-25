@@ -6,10 +6,10 @@ public class GetRandomNum {
 	public static void main(String[] args) {
 		//System.out.println((char)97);
 		random = new Random();
-//		for(int i=0;i<10;i++){
-//			int nextInt = random.nextInt(30);
-//			System.out.println(nextInt);
-//		}
+		for(int i=0;i<10;i++){
+			int nextInt = random.nextInt(30);
+			System.out.println(nextInt);
+		}
 		getStringId();
 	}
 
